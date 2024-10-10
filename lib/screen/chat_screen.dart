@@ -23,6 +23,8 @@ class ChatScreen extends StatelessWidget {
                         color: Colors.black,
                       )),
                 ),
+
+
                 const Text(
                   'Profile',
                   style: TextStyle(
