@@ -7,9 +7,9 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 <br>
 
-<h2>📃PPT </h2>
+<h2>📃 </h2>
 
-[PPT](https://github.com/user-attachments/files/17686890/Travel-App-Your-Gateway-to-Unforgettable-Journeys.1.pdf)
+(https://github.com/user-attachments/files/17686890/Travel-App-Your-Gateway-to-Unforgettable-Journeys.1.pdf)
 <br>
 
 
