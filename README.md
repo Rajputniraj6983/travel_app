@@ -10,12 +10,12 @@
    - Provide secure login, real-time updates, and user trip booking.
 
 <br>
-<h2>📃 </h2>
+<h2>📃 PPT </h2>
 
 (https://github.com/user-attachments/files/17686890/Travel-App-Your-Gateway-to-Unforgettable-Journeys.1.pdf)
 <br>
 
-## **4. Project Structure**
+##  Project Structure**
 
    ```
    lib/
@@ -44,7 +44,29 @@
        └── Google_controller.dart
        └── Favourite_icon_controller.dart
    ```
+##  Firebase Setup**
 
+   **Steps to Configure Firebase**  
+   1. **Firebase Project Creation**: Create a Firebase project at [Firebase Console](https://console.firebase.google.com/).
+   2. **Add Firebase to Flutter**: Follow Firebase's setup guide to connect Firebase to the Flutter app.
+   3. **Authentication Setup**: Enable Email/Password login under Authentication settings.
+   4. **Database Setup**:  
+      - Use Firebase Realtime Database.
+   
+ 
+ ## Dependency ##
+    ├── cupertino_icons: ^1.0.8
+    ├── get: ^4.6.6
+    ├── firebase_core: ^3.6.0
+    ├── firebase_auth: any
+    ├── google_sign_in: ^6.2.1
+    ├── sign_in_button: ^3.2.0
+    ├── cloud_firestore: ^5.4.4
+    ├── firebase_messaging: any
+    ├── flutter_local_notifications: any
+    ├── google_fonts: ^6.2.1
+    ├── shared_preferences: any
+    
 
 ### Screenshorts
 <p align ='center'>
