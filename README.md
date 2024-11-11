@@ -24,11 +24,8 @@ This project is a starting point for a Flutter application.
   <img src='https://github.com/user-attachments/assets/03544f89-454b-45f5-a786-b4c38b134918' width=300> 
   <img src='https://github.com/user-attachments/assets/ee961b43-e00e-43dd-aae5-02cf1e440a0a' width=300> 
   <img src='https://github.com/user-attachments/assets/498db956-2031-470f-a119-bf0e081c2490' width=300> 
-   
- 
-  
- 
-
+  <img src='https://github.com/user-attachments/assets/e68adeec-f5b0-4134-b5b4-495cb7373e45' width=300>
+  <img src='https://github.com/user-attachments/assets/56906642-657f-415a-a49a-915405243bd8' width=300>
 </p>
 
 app video : [video]()
