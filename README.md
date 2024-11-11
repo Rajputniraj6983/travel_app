@@ -1,16 +1,49 @@
-# travel_app
+<h2 align = "center">   @ @ Travel App @ @ </h2>
 
-A new Flutter project.
+# ** Travel  App Documentation **
 
-## Getting Started
+ **Description**  
+   - A cross-platform Travel application built with Flutter, using Firebase as the backend. This app enables users to book a trip, chat upadte in real time date.
 
-This project is a starting point for a Flutter application.
+   **Objectives**  
+   - Develop an interactive travel application .
+   - Provide secure login, real-time updates, and user trip booking.
+
 <br>
-
 <h2>📃 </h2>
 
 (https://github.com/user-attachments/files/17686890/Travel-App-Your-Gateway-to-Unforgettable-Journeys.1.pdf)
 <br>
+
+## **4. Project Structure**
+
+   ```
+   lib/
+   ├── main.dart                  # Entry point of the app
+   ├── screens/                   # Directory for all app screens
+   │   ├── login_screen.dart      # User login and signup screen
+   │   ├── home_screen.dart       # Main dashboard after login
+   │   ├── SchedulePage           # User trip save 
+   │   └── ChatScreen             # User chat to friend to each other
+   │   └── ProfileScreen          # User chnages profile addres and log-out
+   │   └── BookmarkScreen         # User save our trip
+   ├── models/                    # Data models for quiz questions and user scores
+   │   ├── chat modal
+   │   └── place modal
+   │   └── user modal
+   ├── services/                        # Firebase and API services
+   │   ├── Auth_services.dart           # Manages user login/logout
+   │   ├── Firebase_service.dart        # Database interactions
+   │   └── chat_services.dart           # User chat upadte screen and real time data show
+   │   └── notification_services.dart   # Current notification update
+   │   └── cloud_firestore.dart         # user name and phone number and user chat data store in firebase cloud store
+   └── controllers/               # GetX controllers for state management
+       ├── auth_controller.dart
+       ├── cart_controller.dart
+       └── chat_notification_controller.
+       └── Google_controller.dart
+       └── Favourite_icon_controller.dart
+   ```
 
 
 ### Screenshorts
